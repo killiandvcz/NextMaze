@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAM,CACJ,OAAO,CAAE,IAAI,CACb,cAAc,CAAE,GAAG,CACnB,SAAS,CAAE,IAAI,CACf,KAAK,CAAE,KAAO",
+"sources": ["Tiles.module.scss"],
+"names": [],
+"file": "Tiles.module.css"
+}
